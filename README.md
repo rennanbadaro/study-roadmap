@@ -21,7 +21,10 @@ An average of 1h30min every day
     * Diodes > Transistors
 
 #### Day 1 - 21/01/2018
+* Node I Course Alura - Mod I and II
 
+#### Day 2 - 22/01/2018
+* [Code on the backend, frontend and how they interact](https://hackernoon.com/in-simple-terms-backend-code-frontend-code-and-how-they-interact-2485c5a1bbd2)
 
 
 
