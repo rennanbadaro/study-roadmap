@@ -21,10 +21,10 @@ An average of 1h30min every day
     * Diodes > Transistors
 
 #### Day 4 - 22/01/2018
-* [OOP JS(Module 3 and 4](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
+* [OOP JS(Module 3 and 4)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
 
 #### Day 3 - 22/01/2018
-* [OOP JS(Module 1 and 2](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
+* [OOP JS(Module 1 and 2)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
 
 #### Day 2 - 22/01/2018
 * [Code on the backend, frontend and how they interact](https://hackernoon.com/in-simple-terms-backend-code-frontend-code-and-how-they-interact-2485c5a1bbd2)
