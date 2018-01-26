@@ -20,11 +20,18 @@ An average of 1h30min every day
     * Circuit Analysis
     * Diodes > Transistors
 
-#### Day 1 - 21/01/2018
-* Node I Course Alura - Mod I and II
+#### Day 4 - 22/01/2018
+* [OOP JS(Module 3 and 4](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
+
+#### Day 3 - 22/01/2018
+* [OOP JS(Module 1 and 2](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
 
 #### Day 2 - 22/01/2018
 * [Code on the backend, frontend and how they interact](https://hackernoon.com/in-simple-terms-backend-code-frontend-code-and-how-they-interact-2485c5a1bbd2)
+
+#### Day 1 - 21/01/2018
+* Node I Course Alura - Mod I and II
+
 
 
 
@@ -45,3 +52,5 @@ An average of 1h30min every day
 * [Building a GraphQL Server pt 1](https://www.youtube.com/watch?v=PEcJxkylcRM&index=1&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
 * [Building a GraphQL Server pt 2](https://www.youtube.com/watch?v=qqzIA1BQ_ys&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68&index=2)
 * [Git Course](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/)
+* [Inside V8](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
+* [How JS works(articles)](https://blog.sessionstack.com/@zlatkov)
