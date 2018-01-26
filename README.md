@@ -19,11 +19,12 @@ An average of 1h30min every day
 * Electronic
     * Circuit Analysis
     * Diodes > Transistors
+    
 
-#### Day 4 - 22/01/2018
+#### Day 4 - 24/01/2018
 * [OOP JS(Module 3 and 4)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
 
-#### Day 3 - 22/01/2018
+#### Day 3 - 23/01/2018
 * [OOP JS(Module 1 and 2)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
 
 #### Day 2 - 22/01/2018
