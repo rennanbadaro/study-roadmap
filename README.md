@@ -20,8 +20,9 @@ An average of 1h30min every day
     
 
 #### Day 5 - 27/01/2018
-* [Promisses Explained by Gambling](https://medium.freecodecamp.org/javascript-promises-explained-by-gambling-at-a-casino-28ad4c5b2573)
-* [Callbacks Explained Using Minions](https://medium.freecodecamp.org/javascript-callbacks-explained-using-minions-da272f4d9bcd)
+* [Promisses and Callbacks analogies](http://www.codeanalogies.com/)
+   - [Promisses Explained by Gambling](https://medium.freecodecamp.org/javascript-promises-explained-by-gambling-at-a-casino-28ad4c5b2573)
+   - [Callbacks Explained Using Minions](https://medium.freecodecamp.org/javascript-callbacks-explained-using-minions-da272f4d9bcd)
 * [OOP JS(Module 5)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
 * Circuit Analysis Demystified(Chapter 1 and 2)
 
