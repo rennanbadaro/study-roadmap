@@ -44,6 +44,7 @@ An average of 1h30min every day
 * Introduction to Electric Circuits - Svoboda, Dorf
    - [Solutions](http://www.chegg.com/homework-help/introduction-to-electric-circuits-9th-edition-chapter-1.dp-solutions-9781118477502)
 * Electronic Principles - Malvino
+* [The Art of Node](https://github.com/maxogden/art-of-node)
 * [Redes Alura](https://cursos.alura.com.br/career/infraestrutra-de-redes)
 * [Node Alura](https://cursos.alura.com.br/career/node-js)
 * [Node Pluralsight I](https://app.pluralsight.com/library/courses/nodejs-express-web-applications)
