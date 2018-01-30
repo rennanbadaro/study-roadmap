@@ -18,6 +18,8 @@ An average of 1h30min every day
     * Circuit Analysis
     * Diodes > Transistors
     
+#### Day 6 - 29/01/2018
+* [Async Await Wes Bos](https://www.youtube.com/watch?v=9YkUCxvaLEk)
 
 #### Day 5 - 27/01/2018
 * [Promisses and Callbacks analogies](http://www.codeanalogies.com/)
