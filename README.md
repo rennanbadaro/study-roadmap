@@ -18,6 +18,11 @@ An average of 1h30min every day
     * Circuit Analysis
     * Diodes > Transistors
     
+#### Day 6 - 30/01/2018
+* [Pagar.Me Talks - Types JS](https://www.youtube.com/watch?v=U-TG7iEZzVI)
+* [Pagar.Me Talks - QA Mindset](https://www.youtube.com/watch?v=BFTAryFSNr0)
+* [Pagar.Me Talks - DNS](https://www.youtube.com/watch?v=29SMsd_rwP4)
+
 #### Day 6 - 29/01/2018
 * [Async Await Wes Bos](https://www.youtube.com/watch?v=9YkUCxvaLEk)
 
