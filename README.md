@@ -52,6 +52,7 @@ An average of 1h30min every day
 * Introduction to Electric Circuits - Svoboda, Dorf
    - [Solutions](http://www.chegg.com/homework-help/introduction-to-electric-circuits-9th-edition-chapter-1.dp-solutions-9781118477502)
 * Electronic Principles - Malvino
+* [Pagar.Me Talks - Deep Git](https://www.youtube.com/watch?v=H2j7e81J798)
 * [The Art of Node](https://github.com/maxogden/art-of-node)
 * [More of Callback](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * [Redes Alura](https://cursos.alura.com.br/career/infraestrutra-de-redes)
