@@ -73,3 +73,4 @@ An average of 1h30min every day
 * [Git Course](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/)
 * [Inside V8](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 * [How JS works(articles)](https://blog.sessionstack.com/@zlatkov)
+* [Goodby OOP](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
