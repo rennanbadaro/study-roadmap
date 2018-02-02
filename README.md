@@ -17,7 +17,9 @@ An average of 1h30min every day
 * Electronic
     * Circuit Analysis
     * Diodes > Transistors
-    
+
+
+
 #### Day 6 - 30/01/2018
 * [Pagar.Me Talks - Types JS](https://www.youtube.com/watch?v=U-TG7iEZzVI)
 * [Pagar.Me Talks - QA Mindset](https://www.youtube.com/watch?v=BFTAryFSNr0)
@@ -50,6 +52,7 @@ An average of 1h30min every day
 
 
 #### Backlog
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * Introduction to Electric Circuits - Svoboda, Dorf
    - [Solutions](http://www.chegg.com/homework-help/introduction-to-electric-circuits-9th-edition-chapter-1.dp-solutions-9781118477502)
 * Electronic Principles - Malvino
