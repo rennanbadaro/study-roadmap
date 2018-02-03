@@ -18,7 +18,8 @@ An average of 1h30min every day
     * Circuit Analysis
     * Diodes > Transistors
 
-
+#### Day 7 - 02/02/2018
+* Async & Performance - YDKJS(Chapter 1)
 
 #### Day 6 - 30/01/2018
 * [Pagar.Me Talks - Types JS](https://www.youtube.com/watch?v=U-TG7iEZzVI)
@@ -56,6 +57,7 @@ An average of 1h30min every day
    - [Solutions](http://www.chegg.com/homework-help/introduction-to-electric-circuits-9th-edition-chapter-1.dp-solutions-9781118477502)
 * Electronic Principles - Malvino
 * [Pagar.Me Talks - Deep Git](https://www.youtube.com/watch?v=H2j7e81J798)
+* [Software Architects](https://medium.com/@nvashanin/types-of-software-architects-aa03e359d192)
 * [5 tech trends 2018](https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb)
 * [More of Callback](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * [Node Alura](https://cursos.alura.com.br/career/node-js)
