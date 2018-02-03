@@ -52,17 +52,12 @@ An average of 1h30min every day
 
 
 #### Backlog
-* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * Introduction to Electric Circuits - Svoboda, Dorf
    - [Solutions](http://www.chegg.com/homework-help/introduction-to-electric-circuits-9th-edition-chapter-1.dp-solutions-9781118477502)
 * Electronic Principles - Malvino
 * [Pagar.Me Talks - Deep Git](https://www.youtube.com/watch?v=H2j7e81J798)
-* [The Art of Node](https://github.com/maxogden/art-of-node)
 * [More of Callback](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
-* [Redes Alura](https://cursos.alura.com.br/career/infraestrutra-de-redes)
 * [Node Alura](https://cursos.alura.com.br/career/node-js)
-* [Node Pluralsight I](https://app.pluralsight.com/library/courses/nodejs-express-web-applications)
-* [Node Pluralsight II](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services)
 * [Postgres Alura](https://cursos.alura.com.br/course/introducao-a-banco-de-dados-e-sql-com-postgre)
 * [High Performance Browser Network(BOOK)](https://hpbn.co/)
 * [Start practicing mobile first Responsive Web Design](https://blog.yipl.com.np/frontend-quicktips-6-start-practicing-mobile-first-responsive-web-design-2fa148ab24c5)
@@ -73,7 +68,6 @@ An average of 1h30min every day
 * [Trends for 2018 article](https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318ab)
 * [Building a GraphQL Server pt 1](https://www.youtube.com/watch?v=PEcJxkylcRM&index=1&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
 * [Building a GraphQL Server pt 2](https://www.youtube.com/watch?v=qqzIA1BQ_ys&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68&index=2)
-* [Git Course](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/)
 * [Inside V8](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 * [How JS works(articles)](https://blog.sessionstack.com/@zlatkov)
-* [Goodby OOP](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+* [Goodbye OOP](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
