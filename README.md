@@ -18,6 +18,9 @@ An average of 1h30min every day
     * Circuit Analysis
     * Diodes > Transistors
 
+#### Day 8 - 05/02/2018
+* [OOP JS(Finished)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
+
 #### Day 7 - 02/02/2018
 * Async & Performance - YDKJS(Chapter 1)
 
