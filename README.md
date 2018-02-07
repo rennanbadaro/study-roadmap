@@ -18,6 +18,10 @@ An average of 1h30min every day
     * Circuit Analysis
     * Diodes > Transistors
 
+#### Day 9 - 06/02/2018
+* [Pagar.Me Talks - Vitima, Figurante e Protagonista](https://www.youtube.com/watch?v=uEfoQlnkJUk)
+* [Practical Design Patterns JS(Module 1, 2 and 3](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)
+
 #### Day 8 - 05/02/2018
 * [OOP JS(Finished)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
 
