@@ -19,8 +19,10 @@ An average of 1h30min every day
     * Diodes > Transistors
 
 #### Day 13 - 13/02/2018
-* [Intro to Node(Module 1 and 2)](https://app.pluralsight.com/library/courses/node-intro/table-of-contents)
+* [Intro to Node(Finished)](https://app.pluralsight.com/library/courses/node-intro/table-of-contents)
 
+#### Day 13 - 13/02/2018
+* [Intro to Node(Module 1 and 2)](https://app.pluralsight.com/library/courses/node-intro/table-of-contents)
 
 #### Day 12 - 12/02/2018
 * [Understanding Machine Learning(Finished)](https://app.pluralsight.com/library/courses/understanding-machine-learning/table-of-contents)
