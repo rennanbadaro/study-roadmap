@@ -18,16 +18,16 @@ An average of 1h30min every day
     * Circuit Analysis
     * Diodes > Transistors
 
+#### Day 14 - 13/02/2018
+[React Big Picture(Finished)](https://app.pluralsight.com/library/courses/react-big-picture)
+
 #### Day 13 - 13/02/2018
 * [Intro to Node(Finished)](https://app.pluralsight.com/library/courses/node-intro/table-of-contents)
 
-#### Day 13 - 13/02/2018
-* [Intro to Node(Module 1 and 2)](https://app.pluralsight.com/library/courses/node-intro/table-of-contents)
-
 #### Day 12 - 12/02/2018
+* [Intro to Node(Module 1 and 2)](https://app.pluralsight.com/library/courses/node-intro/table-of-contents)
 * [Understanding Machine Learning(Finished)](https://app.pluralsight.com/library/courses/understanding-machine-learning/table-of-contents)
 * [Data Access Using Knex(Module 1)](https://app.pluralsight.com/library/courses/nodejs-data-access-using-knex/table-of-contents)
-* [Intro to Node(Module 1 and 2)](https://app.pluralsight.com/library/courses/node-intro/table-of-contents)
 
 #### Day 11 - 08/02/2018
 * Electric Circuits - Schaums's(Chapter 1 and 2)
