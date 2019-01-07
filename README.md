@@ -1,97 +1,49 @@
 # Study Roadmap
 
 ### Objective and Stuff
-To keep track of all the topics studied along the way and help not only "bookmark" the content but also maintain focus on the established map</br>
-The roads will be 3 months long containing cs and electronics content. The ideia is to pick one of them(cs or electronics) each day e go through all of their sub-items
+
+Keep track of all the topics studied and help not only "bookmark" content but also maintain focus on the established map</br>
+Each road is intended to be 3 months long containing cs, and electronics content in general.
+A [Trello](https://trello.com) board will also be used for better progress management of courses and books.
 
 ### Commitment
-An average of 1h30min every day
 
-### Map I 
-##### *Jan/18 - Mar/18*
+An average of 1h30min every day.
 
-* Computer Science and Coding
-    * NodeJS and ES6(courses, videos, etc)
-    * Talks and articles about fundamental topics
+### Road I
 
-* Electronic
-    * Circuit Analysis
-    * Diodes > Transistors
+##### _Jan/19 - Mar/19_
 
-#### Day 14 - 13/02/2018
-[React Big Picture(Finished)](https://app.pluralsight.com/library/courses/react-big-picture)
+- Asynchronous JS review
+- Functional JS
+- Design Patterns
+- Algorithms and Data Structures
+- AngularJS
+- Go
+- HTTP
+- Circuit Analysis
 
-#### Day 13 - 13/02/2018
-* [Intro to Node(Finished)](https://app.pluralsight.com/library/courses/node-intro/table-of-contents)
+#### Day 1 - 07/01/2019
 
-#### Day 12 - 12/02/2018
-* [Intro to Node(Module 1 and 2)](https://app.pluralsight.com/library/courses/node-intro/table-of-contents)
-* [Understanding Machine Learning(Finished)](https://app.pluralsight.com/library/courses/understanding-machine-learning/table-of-contents)
-* [Data Access Using Knex(Module 1)](https://app.pluralsight.com/library/courses/nodejs-data-access-using-knex/table-of-contents)
-
-#### Day 11 - 08/02/2018
-* Electric Circuits - Schaums's(Chapter 1 and 2)
-
-#### Day 10 - 06/02/2018
-* [Pagar.Me Talks - Vitima, Figurante e Protagonista](https://www.youtube.com/watch?v=uEfoQlnkJUk)
-* [Practical Design Patterns JS(Module 1, 2 and 3)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)
-
-#### Day 9 - 05/02/2018
-* [OOP JS(Finished)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
-
-#### Day 8 - 02/02/2018
-* Async & Performance - YDKJS(Chapter 1)
-
-#### Day 7 - 30/01/2018
-* [Pagar.Me Talks - Types JS](https://www.youtube.com/watch?v=U-TG7iEZzVI)
-* [Pagar.Me Talks - QA Mindset](https://www.youtube.com/watch?v=BFTAryFSNr0)
-* [Pagar.Me Talks - DNS](https://www.youtube.com/watch?v=29SMsd_rwP4)
-* [funfunfunction - Object Creation Part 1- Bind and this](https://www.youtube.com/watch?v=GhbhD1HR5vk)
-
-#### Day 6 - 29/01/2018
-* [Async Await Wes Bos](https://www.youtube.com/watch?v=9YkUCxvaLEk)
-
-#### Day 5 - 27/01/2018
-* [Promisses and Callbacks analogies](http://www.codeanalogies.com/)
-   - [Promisses Explained by Gambling](https://medium.freecodecamp.org/javascript-promises-explained-by-gambling-at-a-casino-28ad4c5b2573)
-   - [Callbacks Explained Using Minions](https://medium.freecodecamp.org/javascript-callbacks-explained-using-minions-da272f4d9bcd)
-* [OOP JS(Module 5)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
-* Circuit Analysis Demystified(Chapter 1 and 2)
-
-#### Day 4 - 24/01/2018
-* [OOP JS(Module 3 and 4)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
-
-#### Day 3 - 23/01/2018
-* [OOP JS(Module 1 and 2)](https://app.pluralsight.com/library/courses/javascript-es6-object-oriented-programming/table-of-contents)
-
-#### Day 2 - 22/01/2018
-* [Code on the backend, frontend and how they interact](https://hackernoon.com/in-simple-terms-backend-code-frontend-code-and-how-they-interact-2485c5a1bbd2)
-
-#### Day 1 - 21/01/2018
-* Node I Course Alura - Mod 1 and 2
-
-
-
+- [Async JS - Promises](https://www.udemy.com/asynchronous-javascript/)
+- [AngularJS - Directives](https://www.udemy.com/learn-angularjs/)
 
 #### Backlog
-* Introduction to Electric Circuits - Svoboda, Dorf
-   - [Solutions](http://www.chegg.com/homework-help/introduction-to-electric-circuits-9th-edition-chapter-1.dp-solutions-9781118477502)
-* Electronic Principles - Malvino
-* [Pagar.Me Talks - Deep Git](https://www.youtube.com/watch?v=H2j7e81J798)
-* [Software Architects](https://medium.com/@nvashanin/types-of-software-architects-aa03e359d192)
-* [5 tech trends 2018](https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb)
-* [More of Callback](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
-* [Node Alura](https://cursos.alura.com.br/career/node-js)
-* [Postgres Alura](https://cursos.alura.com.br/course/introducao-a-banco-de-dados-e-sql-com-postgre)
-* [High Performance Browser Network(BOOK)](https://hpbn.co/)
-* [Start practicing mobile first Responsive Web Design](https://blog.yipl.com.np/frontend-quicktips-6-start-practicing-mobile-first-responsive-web-design-2fa148ab24c5)
-* [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE)
-* [Spotify Culture I](https://www.youtube.com/watch?v=4GK1NDTWbkY)
-* [Spotify Culture II](https://www.youtube.com/watch?v=rzoyryY2STQ)
-* [Microservice article](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
-* [Trends for 2018 article](https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318ab)
-* [Building a GraphQL Server pt 1](https://www.youtube.com/watch?v=PEcJxkylcRM&index=1&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
-* [Building a GraphQL Server pt 2](https://www.youtube.com/watch?v=qqzIA1BQ_ys&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68&index=2)
-* [Inside V8](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
-* [How JS works(articles)](https://blog.sessionstack.com/@zlatkov)
-* [Goodbye OOP](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+
+- Introduction to Electric Circuits - Svoboda, Dorf
+  - [Solutions](http://www.chegg.com/homework-help/introduction-to-electric-circuits-9th-edition-chapter-1.dp-solutions-9781118477502)
+- [Pagar.Me Talks - Deep Git](https://www.youtube.com/watch?v=H2j7e81J798)
+- [Software Architects](https://medium.com/@nvashanin/types-of-software-architects-aa03e359d192)
+- [Stop using PageObjs](https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/)
+- [More of Callback](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+- [High Performance Browser Network(BOOK)](https://hpbn.co/)
+- [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE)
+- [Spotify Culture I](https://www.youtube.com/watch?v=4GK1NDTWbkY)
+- [Spotify Culture II](https://www.youtube.com/watch?v=rzoyryY2STQ)
+- [Microservice article](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
+- [Trends for 2018 article](https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318ab)
+- [Inside V8](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
+- [How JS works(articles)](https://blog.sessionstack.com/@zlatkov)
+- [Goodbye OOP](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+- [Functional Light JS Kyle Simpson\[BOOK\]](https://github.com/getify/Functional-Light-JS)
+- [You Don't Know JS Kyle Simpson\[BOOK\]](https://github.com/getify/You-Dont-Know-JS)
