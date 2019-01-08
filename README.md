@@ -28,6 +28,9 @@ An average of 1h30min every day.
 - [Async JS - Promises](https://www.udemy.com/asynchronous-javascript/)
 - [AngularJS - Directives](https://www.udemy.com/learn-angularjs/)
 
+#### Day 1 - 07/01/2019
+- [Async JS - Async/Await](https://www.udemy.com/asynchronous-javascript/)
+
 #### Backlog
 
 - Introduction to Electric Circuits - Svoboda, Dorf
