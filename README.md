@@ -28,13 +28,16 @@ An average of 1h30min every day.
 - [Async JS - Promises](https://www.udemy.com/asynchronous-javascript/)
 - [AngularJS - Directives](https://www.udemy.com/learn-angularjs/)
 
-#### Day 1 - 07/01/2019
+#### Day 2 - 08/01/2019
 - [Async JS - Async/Await](https://www.udemy.com/asynchronous-javascript/)
+
+#### Day 3 - 09/01/2019
+- [Async JS - Generators](https://www.udemy.com/asynchronous-javascript/)
 
 #### Backlog
 
 - Introduction to Electric Circuits - Svoboda, Dorf
-  - [Solutions](http://www.chegg.com/homework-help/introduction-to-electric-circuits-9th-edition-chapter-1.dp-solutions-9781118477502)
+- [Solutions](http://www.chegg.com/homework-help/introduction-to-electric-circuits-9th-edition-chapter-1.dp-solutions-9781118477502)
 - [Pagar.Me Talks - Deep Git](https://www.youtube.com/watch?v=H2j7e81J798)
 - [Software Architects](https://medium.com/@nvashanin/types-of-software-architects-aa03e359d192)
 - [Stop using PageObjs](https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/)
