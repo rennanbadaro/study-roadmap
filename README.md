@@ -34,6 +34,11 @@ An average of 1h30min every day.
 #### Day 3 - 09/01/2019
 - [Async JS - Generators](https://www.udemy.com/asynchronous-javascript/)
 
+#### Day 4 - 20/01/2019
+- [NodeJS Event Loop](https://www.youtube.com/watch?v=PNa9OMajw9w)
+- [What the heck is the event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Async JS - Event Loop](https://www.udemy.com/asynchronous-javascript/)
+
 #### Backlog
 
 - Introduction to Electric Circuits - Svoboda, Dorf
