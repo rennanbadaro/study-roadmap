@@ -39,6 +39,9 @@ An average of 1h30min every day.
 - [What the heck is the event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Async JS - Event Loop](https://www.udemy.com/asynchronous-javascript/)
 
+#### Day 5 - 21/01/2019
+- [Design Patterns - TUWIEN](http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns.html)
+
 #### Backlog
 
 - Introduction to Electric Circuits - Svoboda, Dorf
