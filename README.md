@@ -23,24 +23,35 @@ An average of 1h30min every day.
 - HTTP
 - Circuit Analysis
 
-#### Day 1 - 07/01/2019
+#### Day 1 - 07/01/19
 
 - [Async JS - Promises](https://www.udemy.com/asynchronous-javascript/)
 - [AngularJS - Directives](https://www.udemy.com/learn-angularjs/)
 
-#### Day 2 - 08/01/2019
+#### Day 2 - 08/01/19
 - [Async JS - Async/Await](https://www.udemy.com/asynchronous-javascript/)
 
-#### Day 3 - 09/01/2019
+#### Day 3 - 09/01/19
 - [Async JS - Generators](https://www.udemy.com/asynchronous-javascript/)
 
-#### Day 4 - 20/01/2019
+#### Day 4 - 20/01/19
 - [NodeJS Event Loop](https://www.youtube.com/watch?v=PNa9OMajw9w)
 - [What the heck is the event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Async JS - Event Loop](https://www.udemy.com/asynchronous-javascript/)
 
-#### Day 5 - 21/01/2019
+#### Day 5 - 21/01/19
 - [Design Patterns - TUWIEN](http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns.html)
+- The Littler LISPer
+
+#### Day 6 - 22/01/19
+- [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+#### Day 7 - 23/01/19
+- [Design Patterns - TUWIEN](http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns.html)
+- [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+#### Day 8 - 25/01/10
+- [Building a Backend for Frontend (BFF) For Your Microservices](https://nordicapis.com/building-a-backend-for-frontend-shim-for-your-microservices/)
 
 #### Backlog
 
