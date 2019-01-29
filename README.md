@@ -14,7 +14,7 @@ An average of 1h30min every day.
 
 ##### _Jan/19 - Mar/19_
 
-- Asynchronous JS review
+- ~~Asynchronous JS review~~
 - Functional JS
 - Design Patterns
 - Algorithms and Data Structures
@@ -50,8 +50,14 @@ An average of 1h30min every day.
 - [Design Patterns - TUWIEN](http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns.html)
 - [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-#### Day 8 - 25/01/10
+#### Day 8 - 25/01/19
 - [Building a Backend for Frontend (BFF) For Your Microservices](https://nordicapis.com/building-a-backend-for-frontend-shim-for-your-microservices/)
+
+#### Day 9 - 26/01/19
+- [Exploring The gRPC Framework for Building Microservices](https://nordicapis.com/exploring-the-grpc-framework-for-building-microservices/)
+
+#### Day 10 - 27/01/19
+- [React and Redux - Stephen Grider](https://www.udemy.com/react-redux/learn/v4/overview)
 
 #### Backlog
 
@@ -72,3 +78,5 @@ An average of 1h30min every day.
 - [Goodbye OOP](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 - [Functional Light JS Kyle Simpson\[BOOK\]](https://github.com/getify/Functional-Light-JS)
 - [You Don't Know JS Kyle Simpson\[BOOK\]](https://github.com/getify/You-Dont-Know-JS)
+- [What is the Difference Between an API and an SDK?](https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/)
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
