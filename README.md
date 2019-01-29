@@ -58,7 +58,10 @@ An average of 1h30min every day.
 - [Exploring The gRPC Framework for Building Microservices](https://nordicapis.com/exploring-the-grpc-framework-for-building-microservices/)
 
 #### Day 10 - 27/01/19
-- [React and Redux - Stephen Grider](https://www.udemy.com/react-redux/learn/v4/overview)
+- [React: Intro and Components - Stephen Grider](https://www.udemy.com/react-redux/learn/v4/overview)
+
+###$ Day 11 - 28/01/19
+- [AngularJS Overview - A. Alicea](https://www.udemy.com/learn-angularjs/)
 
 #### Backlog
 
