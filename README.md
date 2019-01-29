@@ -21,7 +21,6 @@ An average of 1h30min every day.
 - Algorithms and Data Structures
 - React
 - Go
-- HTTP
 - Circuit Analysis
 
 #### Day 1 - 07/01/19
@@ -30,38 +29,49 @@ An average of 1h30min every day.
 - [AngularJS - Directives](https://www.udemy.com/learn-angularjs/)
 
 #### Day 2 - 08/01/19
+
 - [Async JS - Async/Await](https://www.udemy.com/asynchronous-javascript/)
 
 #### Day 3 - 09/01/19
+
 - [Async JS - Generators](https://www.udemy.com/asynchronous-javascript/)
 
 #### Day 4 - 20/01/19
+
 - [NodeJS Event Loop](https://www.youtube.com/watch?v=PNa9OMajw9w)
 - [What the heck is the event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Async JS - Event Loop](https://www.udemy.com/asynchronous-javascript/)
 
 #### Day 5 - 21/01/19
+
 - [Design Patterns - TUWIEN](http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns.html)
 - The Littler LISPer
 
 #### Day 6 - 22/01/19
+
 - [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 #### Day 7 - 23/01/19
+
 - [Design Patterns - TUWIEN](http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns.html)
 - [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 #### Day 8 - 25/01/19
+
 - [Building a Backend for Frontend (BFF) For Your Microservices](https://nordicapis.com/building-a-backend-for-frontend-shim-for-your-microservices/)
 
 #### Day 9 - 26/01/19
+
 - [Exploring The gRPC Framework for Building Microservices](https://nordicapis.com/exploring-the-grpc-framework-for-building-microservices/)
 
 #### Day 10 - 27/01/19
-- [React: Intro and Components - Stephen Grider](https://www.udemy.com/react-redux/learn/v4/overview)
 
-###$ Day 11 - 28/01/19
+- [React: Intro and Functional Components - Stephen Grider](https://www.udemy.com/react-redux/)
+
+#### Day 11 - 28/01/19
+
 - [AngularJS Overview - A. Alicea](https://www.udemy.com/learn-angularjs/)
+- [React: Class-based Components and State - Stephen Grider](https://www.udemy.com/react-redux/)
 
 #### Backlog
 
