@@ -15,10 +15,11 @@ An average of 1h30min every day.
 ##### _Jan/19 - Mar/19_
 
 - ~~Asynchronous JS review~~
+- ~~AngularJS Overview~~
 - Functional JS
 - Design Patterns
 - Algorithms and Data Structures
-- AngularJS
+- React
 - Go
 - HTTP
 - Circuit Analysis
