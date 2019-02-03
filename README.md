@@ -73,6 +73,19 @@ An average of 1h30min every day.
 - [AngularJS Overview - A. Alicea](https://www.udemy.com/learn-angularjs/)
 - [React: Class-based Components and State - Stephen Grider](https://www.udemy.com/react-redux/)
 
+#### Day 12 - 29/01/19
+
+- [AngularJS Overview - A. Alicea](https://www.udemy.com/learn-angularjs/)
+
+#### Day 13 - 02/02/19
+
+- [Python Intro - Jose Salvatierra](https://www.udemy.com/the-complete-python-course/)
+
+#### Day 14 - 03/02/19
+
+- [Python Functions and loops - Jose Salvatierra](https://www.udemy.com/the-complete-python-course/)
+- [Data Analysis - Udacity Nanodegree](https://classroom.udacity.com/nanodegrees/nd008-br/)
+
 #### Backlog
 
 - Introduction to Electric Circuits - Svoboda, Dorf
