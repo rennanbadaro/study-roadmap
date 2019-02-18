@@ -16,12 +16,12 @@ An average of 1h30min every day.
 
 - ~~Asynchronous JS review~~
 - ~~AngularJS Overview~~
-- Functional JS
 - Design Patterns
 - Algorithms and Data Structures
 - React
 - Go
-- Circuit Analysis
+- Python
+- Data Analysis
 
 #### Day 1 - 07/01/19
 
@@ -86,6 +86,18 @@ An average of 1h30min every day.
 - [Python Functions and loops - Jose Salvatierra](https://www.udemy.com/the-complete-python-course/)
 - [Data Analysis - Udacity Nanodegree](https://classroom.udacity.com/nanodegrees/nd008-br/)
 
+#### Day 15 - 04/02/19
+
+- [Chapter 1 -Structure and Interpretarion of CP](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+
+#### Day 16 - 04/02/19
+
+- [Chapter 2 -Structure and Interpretarion of CP](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+
+### Day 17 - 07/02/19
+
+- [Functional-Lite JS - Completed](https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents)
+
 #### Backlog
 
 - Introduction to Electric Circuits - Svoboda, Dorf
@@ -107,3 +119,14 @@ An average of 1h30min every day.
 - [You Don't Know JS Kyle Simpson\[BOOK\]](https://github.com/getify/You-Dont-Know-JS)
 - [What is the Difference Between an API and an SDK?](https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/)
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
+- [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+- [Functional Programming Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- [Rethinking Asynchronous Programming](https://app.pluralsight.com/library/courses/rethinking-asynchronous-programming/table-of-contents)
+- [Organizing JavaScript Functionality](https://app.pluralsight.com/library/courses/organizing-javascript-functionality/table-of-contents)
+- [Design Patterns On-Ramp](https://app.pluralsight.com/library/courses/design-patterns-on-ramp/table-of-contents)
+https://www.devpleno.com/currying/
+https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400
+https://medium.com/@kavehmz/currying-in-go-and-a-bit-of-interfacing-a79b74b948fc
+https://dev.to/mattn/gos-method-is-curried-funtion-c3f
+https://www.youtube.com/watch?v=iZLP4qOwY8I
