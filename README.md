@@ -98,6 +98,13 @@ An average of 1h30min every day.
 
 - [Functional-Lite JS - Completed](https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents)
 
+### Day 18 - 18/02/19
+
+- [Scaling Applications with Microservices, MassTransit, and RabbitMQ](https://app.pluralsight.com/library/courses/masstransit-rabbitmq-scaling-microservices/table-of-contents)
+  - Intro, Messaging Architecture
+- [Clean Code: Writing Code For Humans](https://app.pluralsight.com/library/courses/writing-clean-code-humans/table-of-contents)
+  - Intro, Principles and Naming
+
 #### Backlog
 
 - Introduction to Electric Circuits - Svoboda, Dorf
