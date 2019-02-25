@@ -105,6 +105,35 @@ An average of 1h30min every day.
 - [Clean Code: Writing Code For Humans](https://app.pluralsight.com/library/courses/writing-clean-code-humans/table-of-contents)
   - Intro, Principles and Naming
 
+### Day 19 - 18/02/19
+
+- [Clean Code: Writing Code For Humans](https://app.pluralsight.com/library/courses/writing-clean-code-humans/table-of-contents)
+  - Conditionals, Functions and Classes
+- [Unit Testing with NodeJS](https://app.pluralsight.com/library/courses/unit-testing-nodejs/table-of-contents)
+  - Intro
+
+### Day 20 - 19/02/19
+
+- [Clean Code: Writing Code For Humans](https://app.pluralsight.com/library/courses/writing-clean-code-humans/table-of-contents)
+  - Classes
+
+### Day 21 - 20/02/19
+
+- [Clean Code: Writing Code For Humans](https://app.pluralsight.com/library/courses/writing-clean-code-humans/table-of-contents)
+  - Demo and Summary
+- Circuit Analysis - Sadiku
+  - Intro, Chapter 1 - WIP
+
+### Day 22 - 23/02/19
+- Circuit Analysis - Sadiku
+  - Chapter 1 - WIP
+
+### Day 23 - 24/02/19
+- [Circuit Analysis Refresh - Khan Academy](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic)
+  - Circuit Elements, Resistor Circuits
+- Circuit Analysis - Sadiku
+  - Chapter 1
+
 #### Backlog
 
 - Introduction to Electric Circuits - Svoboda, Dorf
