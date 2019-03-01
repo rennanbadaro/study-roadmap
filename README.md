@@ -17,11 +17,10 @@ An average of 1h30min every day.
 - ~~Asynchronous JS review~~
 - ~~AngularJS Overview~~
 - Design Patterns
+- Clean Code and DDD
 - Algorithms and Data Structures
-- React
-- Go
-- Python
-- Data Analysis
+- ~~Go~~ - *[postponed]*
+- Rust
 
 #### Day 1 - 07/01/19
 
@@ -125,14 +124,30 @@ An average of 1h30min every day.
   - Intro, Chapter 1 - WIP
 
 ### Day 22 - 23/02/19
+
 - Circuit Analysis - Sadiku
   - Chapter 1 - WIP
 
 ### Day 23 - 24/02/19
+
 - [Circuit Analysis Refresh - Khan Academy](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic)
   - Circuit Elements, Resistor Circuits
 - Circuit Analysis - Sadiku
   - Chapter 1
+
+### Day 23 - 26/02/19
+
+- [ES6 The Right Parts - Kyle Simpson](https://www.pluralsight.com/courses/es6-the-right-parts)
+
+### Day 23 - 27/02/19
+
+- [ES6 The Right Parts - Kyle Simpson](https://www.pluralsight.com/courses/es6-the-right-parts)
+
+### Day 23 - 28/02/19
+
+- [ES6 The Right Parts - Kyle Simpson](https://www.pluralsight.com/courses/es6-the-right-parts)
+- [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
+  - Intro and Chapters 1 and 2
 
 #### Backlog
 
@@ -161,8 +176,8 @@ An average of 1h30min every day.
 - [Rethinking Asynchronous Programming](https://app.pluralsight.com/library/courses/rethinking-asynchronous-programming/table-of-contents)
 - [Organizing JavaScript Functionality](https://app.pluralsight.com/library/courses/organizing-javascript-functionality/table-of-contents)
 - [Design Patterns On-Ramp](https://app.pluralsight.com/library/courses/design-patterns-on-ramp/table-of-contents)
-https://www.devpleno.com/currying/
-https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400
-https://medium.com/@kavehmz/currying-in-go-and-a-bit-of-interfacing-a79b74b948fc
-https://dev.to/mattn/gos-method-is-curried-funtion-c3f
-https://www.youtube.com/watch?v=iZLP4qOwY8I
+  https://www.devpleno.com/currying/
+  https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400
+  https://medium.com/@kavehmz/currying-in-go-and-a-bit-of-interfacing-a79b74b948fc
+  https://dev.to/mattn/gos-method-is-curried-funtion-c3f
+  https://www.youtube.com/watch?v=iZLP4qOwY8I
