@@ -47,7 +47,9 @@ An average of 1h30min every day.
 [Building Microservices - Newman, Sam](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)</br>
 [Dive Into Design Patterns - Shvets, Alexander](https://sourcemaking.com/design_patterns)<br/>
 [SOLID - An Intro to SW Architecture & Design Principles with Node.js & TypeScript - Stemmler, Khalil](https://solidbook.io/)</br>
-[Computer Science Distilled - Ferreira Filho, Wladson](https://sourcemaking.com/computer-science-distilled)
+[Computer Science Distilled - Ferreira Filho, Wladson](https://sourcemaking.com/computer-science-distilled)</br>
+[DDD Distiled - Vernon, Vaughn](https://github.com/phulei/books-1/blob/master/software-development/domain-driven-design-distilled.pdf)
+[Seven Langs In Seven Weeks, Tate, Bruce](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X)
 </br>
 
 #### Repos
