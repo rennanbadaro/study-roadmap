@@ -81,5 +81,6 @@ An average of 1h30min every day.
 
 #### Others
 
-[LeetCode - Algorithms, Data Structures, Interview Questions, Challenges, etc](https://leetcode.com/explore/learn/)</br>
-[OCW - Classes from MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)</br>
+[LeetCode - Algorithms, Data Structures, Interview Questions, Challenges, etc](https://leetcode.com/explore/learn/)<br/>
+[OCW - Classes from MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)<br/>
+[SOLID Design Principles Article](https://stackify.com/solid-design-principles/)<br/>
