@@ -11,16 +11,19 @@ An average of 1h30min every day.
 ### **Content**
 
 - Software Architecture And Practices
+
   - Event Sourcing
   - CQRS
   - Hexagonal
   - DDD
 
 - Infrastructure
+
   - Cloud Computing
   - IaC
 
 - Programming Languages
+
   - Go
   - Rust
 
@@ -34,9 +37,16 @@ An average of 1h30min every day.
 
 - [The Rust Programming Language: Intro, Ch. 1 - DONE](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
 
+#### Day 2 - 09/02
+
+- [Seven Lang: Ruby Day One](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X)
+- [SOLID: Interface Segregation - Stackify Article](https://stackify.com/interface-segregation-principle/)
+
 </br>
 
 ---
+
+</br>
 
 ## **Resources**
 
@@ -48,8 +58,8 @@ An average of 1h30min every day.
 [Dive Into Design Patterns - Shvets, Alexander](https://sourcemaking.com/design_patterns)<br/>
 [SOLID - An Intro to SW Architecture & Design Principles with Node.js & TypeScript - Stemmler, Khalil](https://solidbook.io/)</br>
 [Computer Science Distilled - Ferreira Filho, Wladson](https://sourcemaking.com/computer-science-distilled)</br>
-[DDD Distiled - Vernon, Vaughn](https://github.com/phulei/books-1/blob/master/software-development/domain-driven-design-distilled.pdf)
-[Seven Langs In Seven Weeks, Tate, Bruce](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X)
+[DDD Distiled - Vernon, Vaughn](https://github.com/phulei/books-1/blob/master/software-development/domain-driven-design-distilled.pdf)</br>
+[Seven Langs In Seven Weeks, Tate, Bruce](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X)</br>
 </br>
 
 #### Repos
