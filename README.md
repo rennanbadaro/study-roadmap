@@ -42,6 +42,14 @@ An average of 1h30min every day.
 - [Seven Lang: Ruby Day One](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X)
 - [SOLID: Interface Segregation - Stackify Article](https://stackify.com/interface-segregation-principle/)
 
+#### Day 3 - 22/02
+
+- [Docker Mastery - Bret Fisher: 8%](https://www.udemy.com/course/docker-mastery/)<br/>
+
+
+#### Day 4 - 22/02
+- [Golang Microservices I - Federico León: 14%](https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/)<br/>
+
 </br>
 
 ---
