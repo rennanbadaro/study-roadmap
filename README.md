@@ -55,6 +55,11 @@ An average of 1h30min every day.
 - [Golang Microservices I - Federico León: 27%](https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/)<br/>
   </br>
 
+#### Day 6 - 26/02
+
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration)<br/>
+  </br>
+
 ---
 
 </br>
