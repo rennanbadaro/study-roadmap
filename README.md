@@ -2,7 +2,7 @@
 
 ### Objective and Stuff
 
-Keep track of all the topics studied and help not only "bookmark" content but also maintain focus on the established map</br>
+Keep track of all the topics studied and help not only "bookmark" content but also maintain focus on the established map<br/>
 
 ### Commitment
 
@@ -53,22 +53,27 @@ An average of 1h30min every day.
 #### Day 5 - 25/02
 
 - [Golang Microservices I - Federico León: 27%](https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/)<br/>
-  </br>
+  <br/>
 
 #### Day 6 - 26/02
 
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration)<br/>
-  </br>
+  <br/>
+
+#### Day 7 - 27/02
+
+- [SOLID - Intro to SW Architecture - Stemmler, Khalil: page 72](https://solidbook.io/)<br/>
+  <br/>
 
 ---
 
-</br>
+<br/>
 
 ## **Resources**
 
 #### Books
 
-[The Art of Electronics - Horowitz, Hill](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266)</br>
+[The Art of Electronics - Horowitz, Hill](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266)<br/>
 [The Rust Programming Language](https://doc.rust-lang.org/book/)</br>
 [Building Microservices - Newman, Sam](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)</br>
 [Dive Into Design Patterns - Shvets, Alexander](https://sourcemaking.com/design_patterns)<br/>
@@ -87,11 +92,19 @@ An average of 1h30min every day.
 [More SW Books](https://github.com/EbookFoundation/free-programming-books)
 [Coding Interview University](https://github.com/rennanbadaro/coding-interview-university)</br>
 
+#### Talks/Conferences/Videos
+
+[Event Sourcing - Greg Young - 2016](https://www.youtube.com/watch?v=I3uH3iiiDqY)<br/>
+[A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s)<br/>
+[Event-based Architecture and Implementations with Kafka and Atom - Eberhard Wolff](https://www.youtube.com/watch?v=Ecg7lvvm8aU)<br/>
+[The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)<br/>
+[Event-based Architecture and Implementations with Kafka and Atom - Eberhard Wolff](https://www.youtube.com/watch?v=Ecg7lvvm8aU)<br/>
+
 #### Video Courses
 
 [Typescript Developer's Guide - Stephen Grider](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/)<br/>
 [Golang Microservices I - Federico León](https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/)<br/>
-[Golang Microservices II - Federico León](https://www.udemy.com/course/golang-how-to-design-and-build-rest-microservices-in-go/learn/)</br>
+[Golang Microservices II - Federico León](https://www.udemy.com/course/golang-how-to-design-and-build-rest-microservices-in-go/learn/)<br/>
 [Golang Programming - Golang Zone](https://www.udemy.com/course/go-golang-programming-course/learn/)<br/>
 
 [Apache Kafka For Beginners - Stephane Maarek](https://www.udemy.com/course/apache-kafka/)<br/>
@@ -110,3 +123,5 @@ An average of 1h30min every day.
 [LeetCode - Algorithms, Data Structures, Interview Questions, Challenges, etc](https://leetcode.com/explore/learn/)<br/>
 [OCW - Classes from MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)<br/>
 [SOLID Design Principles Article](https://stackify.com/solid-design-principles/)<br/>
+[Herberto Graça's Blog](https://herbertograca.com/dev-theory-articles-listing/)<br/>
+[3 Categories of Hard SW Probles](https://khalilstemmler.com/wiki/3-categories-of-hard-software-problems/)<br/>
