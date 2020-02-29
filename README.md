@@ -65,6 +65,10 @@ An average of 1h30min every day.
 - [SOLID - Intro to SW Architecture - Stemmler, Khalil: page 72](https://solidbook.io/)<br/>
   <br/>
 
+#### Day 8 - 28/02
+
+- [Exploring Go Modules - Pluralsight: 50%](https://app.pluralsight.com/library/courses/exploring-go-modules/)<br/>
+  <br/>
 ---
 
 <br/>
