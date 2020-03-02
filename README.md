@@ -116,6 +116,7 @@ An average of 1h30min every day.
 [Event-based Architecture and Implementations with Kafka and Atom - Eberhard Wolff](https://www.youtube.com/watch?v=Ecg7lvvm8aU)<br/>
 [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)<br/>
 [Event-based Architecture and Implementations with Kafka and Atom - Eberhard Wolff](https://www.youtube.com/watch?v=Ecg7lvvm8aU)<br/>
+[Event Storming Demo](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 
 #### Video Courses
 
