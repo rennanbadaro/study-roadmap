@@ -70,7 +70,6 @@ An average of 1h30min every day.
 - [Exploring Go Modules - Pluralsight: 50%](https://app.pluralsight.com/library/courses/exploring-go-modules/)<br/>
   <br/>
 
-
 #### Day 9 - 29/02
 
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices)<br/>
@@ -79,7 +78,10 @@ An average of 1h30min every day.
 #### Day 10 - 01/03
 
 - [Creating and Using Generics in Typescript - Pluralsight: COMPLETED](https://app.pluralsight.com/library/courses/typescript-generics-creating-using/)<br/>
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)<br/>
+- [Padrão CQRS - Hangout Canal dotNet Eduardo Pires](youtube.com/watch?v=AQcsfIXQj18.)
   <br/>
+
 ---
 
 <br/>
