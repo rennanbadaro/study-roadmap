@@ -82,6 +82,11 @@ An average of 1h30min every day.
 - [Padrão CQRS - Hangout Canal dotNet Eduardo Pires](youtube.com/watch?v=AQcsfIXQj18.)
   <br/>
 
+#### Day 11 - 02/03
+
+- [Fundamentos de Arquitetura - Eduardo Pires: 24%](https://desenvolvedor.io/curso-online-fundamentos-de-arquitetura-de-software)<br/>
+  <br/>
+
 ---
 
 <br/>
@@ -124,6 +129,8 @@ An average of 1h30min every day.
 [Golang Microservices I - Federico León](https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/)<br/>
 [Golang Microservices II - Federico León](https://www.udemy.com/course/golang-how-to-design-and-build-rest-microservices-in-go/learn/)<br/>
 [Golang Programming - Golang Zone](https://www.udemy.com/course/go-golang-programming-course/learn/)<br/>
+
+[Fundamentos de Arquitetura - Eduardo Pires](https://desenvolvedor.io/curso-online-fundamentos-de-arquitetura-de-software)<br/>
 
 [Apache Kafka For Beginners - Stephane Maarek](https://www.udemy.com/course/apache-kafka/)<br/>
 [Shell Scripting - Jason Cannon](https://www.udemy.com/course/shell-scripting-linux/learn/)<br/>
