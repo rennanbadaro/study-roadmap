@@ -25,7 +25,6 @@ An average of 1h30min every day.
 - Programming Languages
 
   - Go
-  - Rust
 
 - GOF Design Patterns (Typescript)
 
@@ -35,50 +34,54 @@ An average of 1h30min every day.
 
 #### Day 1 - 07/02
 
-- [The Rust Programming Language: Intro, Ch. 1 - DONE](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
+- [The Rust Programming Language](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
+  <br/>
 
 #### Day 2 - 09/02
 
 - [Seven Lang: Ruby Day One](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X)
 - [SOLID: Interface Segregation - Stackify Article](https://stackify.com/interface-segregation-principle/)
+  <br/>
 
 #### Day 3 - 22/02
 
-- [Docker Mastery - Bret Fisher: 8%](https://www.udemy.com/course/docker-mastery/)<br/>
+- [Docker Mastery - Bret Fisher: 8%](https://www.udemy.com/course/docker-mastery/)
+  <br/>
 
 #### Day 4 - 22/02
 
-- [Golang Microservices I - Federico León: 14%](https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/)<br/>
+- [Golang Microservices I - Federico León: 14%](https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/)
+  <br/>
 
 #### Day 5 - 25/02
 
-- [Golang Microservices I - Federico León: 27%](https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/)<br/>
+- [Golang Microservices I - Federico León: 27%](https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/)
   <br/>
 
 #### Day 6 - 26/02
 
-- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration)<br/>
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration)
   <br/>
 
 #### Day 7 - 27/02
 
-- [SOLID - Intro to SW Architecture - Stemmler, Khalil: page 72](https://solidbook.io/)<br/>
+- [SOLID - Intro to SW Architecture - Stemmler, Khalil: page 72](https://solidbook.io/)
   <br/>
 
 #### Day 8 - 28/02
 
-- [Exploring Go Modules - Pluralsight: 50%](https://app.pluralsight.com/library/courses/exploring-go-modules/)<br/>
+- [Exploring Go Modules - Pluralsight: 50%](https://app.pluralsight.com/library/courses/exploring-go-modules/)
   <br/>
 
 #### Day 9 - 29/02
 
-- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices)<br/>
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices)
   <br/>
 
 #### Day 10 - 01/03
 
-- [Creating and Using Generics in Typescript - Pluralsight: COMPLETED](https://app.pluralsight.com/library/courses/typescript-generics-creating-using/)<br/>
-- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)<br/>
+- [Creating and Using Generics in Typescript - Pluralsight: COMPLETED](https://app.pluralsight.com/library/courses/typescript-generics-creating-using/)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)
 - [Padrão CQRS - Hangout Canal dotNet Eduardo Pires](youtube.com/watch?v=AQcsfIXQj18.)
   <br/>
 
