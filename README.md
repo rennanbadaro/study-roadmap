@@ -87,7 +87,13 @@ An average of 1h30min every day.
 
 #### Day 11 - 02/03
 
-- [Fundamentos de Arquitetura - Eduardo Pires: 24%](https://desenvolvedor.io/curso-online-fundamentos-de-arquitetura-de-software)<br/>
+- [Fundamentos de Arquitetura - Eduardo Pires: 24%](https://desenvolvedor.io/curso-online-fundamentos-de-arquitetura-de-software)
+  <br/>
+
+#### Day 12 - 08/03
+
+- [Entendendo CQRS - Full Cycle](https://www.youtube.com/watch?v=8yV8UicF8GI)
+- [How Does HTTPS Works - kubucation](https://www.youtube.com/watch?v=T4Df5_cojAs)
   <br/>
 
 ---
